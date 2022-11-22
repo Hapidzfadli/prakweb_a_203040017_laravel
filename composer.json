@@ -6,10 +6,11 @@
     "license": "MIT",
     "require": {
         "php": "^7.3|^8.0",
+        "cviebrock/eloquent-sluggable": "*",
         "fruitcake/laravel-cors": "^2.0",
         "guzzlehttp/guzzle": "^7.0.1",
         "itsgoingd/clockwork": "^5.1",
-        "laravel/framework": "^8.75",
+        "laravel/framework": "^8.75|^9.0",
         "laravel/sanctum": "^2.11",
         "laravel/tinker": "^2.5"
     },
